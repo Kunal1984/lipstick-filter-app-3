@@ -1,0 +1,13 @@
+h3{
+    font-size: 25px! important;
+    width: 20%;
+
+}
+.btn-success:hover{
+    background-color:magenta;
+}
+canvas{
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
